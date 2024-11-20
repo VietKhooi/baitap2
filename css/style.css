@@ -1,0 +1,24 @@
+.text-content{
+    display: flex;
+    justify-content: space-between; /*De van ban va anh cach nhau*/
+    border: 2px solid #a89f9f;
+    padding: 10px;
+    width: 800px;
+}
+.text{
+    width: 75%;     /*Khoang cach doan van chiem dung*/
+    font-size: 16px;
+}
+.img{
+    width: 20%;     /*Khoang cach anh chiem dung*/
+    margin-left: 10px;      /*Khoangr cach van ban va anh*/
+    margin: 0px;
+}
+.Cap{
+    text-align: center;
+    font-style: italic;
+}
+h2{
+    text-align: center;
+    font-size: 40px;
+}
